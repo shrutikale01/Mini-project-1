@@ -47,8 +47,7 @@
 `Analyze the tags associated with movies. What are the most frequently used tags?`
 
 `Are tags consistent with movie genres?`
-
-## You can do for self learning
+ 
 
 8. **Visualization Projects**
 
